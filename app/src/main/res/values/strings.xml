@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">dhis2</string>
+    <string name="server_url">Server url</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="invalid_server_url">Not a valid server url</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must have more than 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">Home</string>
+    <string name="welcome">"Hello!"</string>
+    <string name="syncing_metadata">Syncing metadata…</string>
+    <string name="syncing_data">Syncing data…</string>
+    <string name="sync_metadata">Sync metadata</string>
+    <string name="sync_data">Sync data</string>
+    <string name="wiping_data">Wiping data…</string>
+    <string name="log_out">Log out</string>
+    <string name="wipe_data">Wipe data</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet"</string>
+    <string name="nav_header_title">User name</string>
+    <string name="nav_header_subtitle">user@email.com</string>
+    <string name="session">Session</string>
+    <string name="programs">Programs</string>
+    <string name="data_sets">Data sets</string>
+    <string name="notes">Notes</string>
+    <string name="orgUnitModel">Organisation Unit Model</string>
+    <string name="period_module">Period Module</string>
+    <string name="tracked_entity_instances">Tracked entity instances</string>
+    <string name="events_without_registration">Events without registration</string>
+    <string name="data_values">Data values</string>
+    <string name="zero">0</string>
+</resources>
